@@ -13,6 +13,15 @@
     text-align: center;
     margin-top: 2em;
 }
+.footer2 {
+    margin-top: 0.9em;
+    font-size: 12px;
+    text-align: center;
+}
+.footer2 a{
+    font-weight: bold;
+    color: white;
+}
 .container {
     background:#171717;
     color: #fff;
