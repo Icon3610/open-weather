@@ -54,6 +54,9 @@ input::placeholder{
 .weather_search{
     position: relative;
 }
+.weather_search:hover{
+    border: 2px solid white;
+}
 
 .weather_search i{
 position:absolute;
